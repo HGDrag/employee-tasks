@@ -1,0 +1,109 @@
+[
+  {
+    "type": "employee",
+    "fullName": "Joan Doe",
+    "email": "johndoe@john.doe",
+    "salary": 3000,
+    "dateOfBirth": "03.03.1989",
+    "phoneNumber": 1827356663,
+    "id": "48b15fff-416a-44c4-b8b0-1ee6f1871553"
+  },
+  {
+    "type": "employee",
+    "fullName": "Gosho Doe",
+    "email": "jDoe@joane.doe",
+    "salary": 3000,
+    "dateOfBirth": "03.03.1999",
+    "phoneNumber": 182733123,
+    "id": "f3317d5d-607c-4c1a-a3d0-9bc679bf0939"
+  },
+  {
+    "type": "task",
+    "title": "Implement read employee functionality",
+    "description": "Lorem ipsum dolor sit amet",
+    "assignee": "Gosho Doe",
+    "dueDate": "2023-03-13",
+    "id": "67af84be-5866-4f1d-8b7b-e9c56c0d92f4"
+  },
+  {
+    "fullName": "asdasd",
+    "email": "asasd@asd.asd",
+    "salary": "asdasd",
+    "dateOfBirth": "2001-03-13",
+    "phoneNumber": "80318230",
+    "id": "25bb1e46-a4d3-41d5-8fe5-ab4e75d6c70e",
+    "type": "employee"
+  },
+  {
+    "title": "asd",
+    "description": "asd",
+    "assignee": "",
+    "dueDate": "2023-03-16",
+    "id": "a4d1af5f-409e-416e-a9ed-94f5d77b8d4f",
+    "type": "task"
+  },
+  {
+    "title": "hggv",
+    "description": "vcmb",
+    "assignee": "asdasd",
+    "dueDate": "2023-03-15",
+    "id": "3f4b5336-a833-4293-870a-e3fa01f75a00",
+    "type": "task"
+  },
+  {
+    "title": "hgc",
+    "description": "mb",
+    "assignee": "asdasd",
+    "dueDate": "2023-03-08",
+    "id": "df2d0df3-04d1-4c62-8e34-25fb5c6215d5",
+    "type": "task"
+  },
+  {
+    "title": "asdasasd",
+    "description": "asdasd",
+    "assignee": "Gosho Doe",
+    "dueDate": "2023-03-01",
+    "id": "8d4a3b21-12e2-456f-8161-7c105e8904a3",
+    "type": "task"
+  },
+  {
+    "title": "sad",
+    "description": "asd is alive",
+    "assignee": "asdasd",
+    "dueDate": "2023-03-10",
+    "id": "cb85d8d7-d6a1-4b02-a527-20d993c1f7e8",
+    "type": "task"
+  },
+  {
+    "title": "prevMonthTsak",
+    "description": "asdij",
+    "assignee": "Joan Doe",
+    "dueDate": "2023-02-13",
+    "id": "5bd94ab6-e364-4340-b53e-7f08bab66583",
+    "type": "task"
+  },
+  {
+    "title": "gfjg",
+    "description": "gfjgfj",
+    "assignee": "Gosho Doe",
+    "dueDate": "2023-03-13",
+    "id": "c62ece1e-2213-4bd7-b1e4-cde6e1dc8dad",
+    "type": "task"
+  },
+  {
+    "title": "gvn",
+    "description": "mvm",
+    "assignee": "Gosho Doe",
+    "dueDate": "2023-03-13",
+    "id": "6fc49287-a9ce-418f-a450-f74d15e8c0bb",
+    "type": "task"
+  },
+  {
+    "title": "asdasda",
+    "description": "asddasd",
+    "assignee": "Joan Doe",
+    "dueDate": "2023-03-15",
+    "id": "77517b77-83ce-447c-9c98-99579b5ac375",
+    "type": "task"
+  }
+]

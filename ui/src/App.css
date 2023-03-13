@@ -1,0 +1,13 @@
+body{
+  padding: 1rem;
+}
+.objectWrapper{
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid #898787;
+}
+.objectWrapper > div > div{
+  border: 1px solid;
+  margin: .5rem 0;
+  padding: 1rem;
+} 
